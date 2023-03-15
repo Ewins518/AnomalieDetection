@@ -1,2 +1,2 @@
 # AnomalieDetection
-Anomaly Detectionusing LSTM Autoencoders on JPMorgan close Price 
+Anomaly Detection using RNN (LSTM)  on JPMorgan close Price 
